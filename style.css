@@ -1,0 +1,28 @@
+
+html{
+  scroll-behavior: smooth;                           /*digunakan untuk mengatur perilaku scrolling pada halaman web. Dalam hal ini, perilaku scrolling diatur agar lebih halus dan mulus dengan efek transisi yang lembut.*/
+  scroll-padding-top: 6rem;
+  overflow-x: hidden;                                /*digunakan untuk mengatur overflow atau tampilan elemen yang melebihi batas area tampilan pada sumbu horizontal (x)*/
+}
+
+.jumbotron {
+    background-image: url('bg ty 3.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: rgb(17, 16, 16);
+  }
+
+.product{
+  background-color: darkgray;
+  align-items: center;
+  justify-content: center;
+ 
+ 
+  
+}
+
